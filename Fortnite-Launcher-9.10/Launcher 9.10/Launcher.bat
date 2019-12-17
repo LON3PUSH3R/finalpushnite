@@ -1,0 +1,1 @@
+FortniteLauncher.exe -NOSSLPINNING -skippatchcheck -epicportal -HTTP=WinINet -noeac -nobe -fltoken=none

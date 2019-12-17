@@ -1,0 +1,18 @@
+{
+  "created": "2019-10-30T11:07:16.491Z",
+  "updated": "2019-10-30T11:07:16.491Z",
+  "rvn": 1,
+  "wipeNumber": 1,
+  "accountId": "aabbccddeeff11223344556677889900",
+  "profileId": "common_public",
+  "version": "fortnite_start",
+  "items": {},
+  "stats": {
+    "attributes": {
+      "banner_color": "defaultcolor17",
+      "homebase_name": "OY BRUV U CANT PLAY YET",
+      "banner_icon": "brseason07seasonlevel100"
+    }
+  },
+  "commandRevision": 0
+}
